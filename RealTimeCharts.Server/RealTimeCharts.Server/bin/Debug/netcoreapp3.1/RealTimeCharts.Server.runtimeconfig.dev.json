@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\flucc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\flucc\\.nuget\\packages"
+    ]
+  }
+}
